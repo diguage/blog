@@ -1,0 +1,6 @@
+name: blog
+title: 博客
+version: latest
+start_page: index.adoc
+nav:
+- modules/ROOT/nav.adoc
