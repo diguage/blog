@@ -1,6 +1,6 @@
 name: blog
 title: 博客
 version: latest
-start_page: index.adoc
+start_page: 20181209-2019-plan.adoc
 nav:
 - modules/ROOT/nav.adoc
