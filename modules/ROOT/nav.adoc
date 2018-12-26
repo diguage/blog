@@ -1,4 +1,4 @@
 // * xref:index.adoc[最新文章]
-* xref:20181210-redux-from-scratch[手动实现 Redux]
+* xref:20181210-redux-from-scratch.adoc[手动实现 Redux]
 * xref:20181209-2019-plan.adoc[2019 年度计划]
 * xref:20181203-react-faq.adoc[React 疑问&解答]
