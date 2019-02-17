@@ -1,5 +1,5 @@
 ++++
 <script type="text/javascript">
-  window.location.replace("./20181209-2019-plan.html");
+  window.location.replace("./20190217-go-to-ski.html");
 </script>
 ++++
