@@ -26,7 +26,9 @@ TIP: 除手套外，其他可租。
 * *门票*： http://piao.ctrip.com/ticket/dest/t19951.html[军都山滑雪场门票,军都山滑雪场门票价格,军都山滑雪场门票团购【携程门票】] -- 周末全天 270 元。
 * *滑雪教练*： http://www.bjski.com.cn/info.php?fid=1&id=7[教练教学价格 - 价格查询 - 北京军都山滑雪场]
 * *保险*： https://baoxian.pingan.com/pa18shopnst/era/web/product/travelFreedom/index.shtml?WT.mc_id=direct[报价 - 平安国内自助游保险E款 - 平安直通保险] -- 保高危意为身故、残疾、伤害医疗每人每天 45.9 元。__也可以到滑雪场购买。__
-* *租车*：摩范出行，全天封顶 198 元。（可以充电，费用自理。）
+* *租车*
+** 摩范出行，全天封顶 198 元。（可以充电，费用自理。） -- 军都山停车场没有充电桩，这个得废掉了。
+** https://order.zuche.com/order/OrderSecondControl.do[神州租车] -- 最低要 139（显示价格） + 40 + 50 + 20 = 249 元。油大概得60块钱。
 * *零食*：__待定__
 
 
